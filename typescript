@@ -1,0 +1,170 @@
+Script started on 2021-11-18 20:11:07+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ mkdir 'folder1'
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ mi[Kkdir 'folder2'
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ pwd[K[K[Kls
+[0m[34;42m'3D Objects'[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+ [34;42mAssignment-Unit2-Portfolio[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+[34;42m'Creative Cloud Files'[0m
+[34;42m'Creative Cloud Files bellabells2029@gmail.com bbe09d4c40757bfedb8efb42bd317a95319dcc93450cb2289d29d08e2e7ff5dc'[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+[34;42m'Google Drive'[0m
+ [34;42mIntelGraphicsProfiles[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms[0m
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [01;36mPrintHood[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+[01;32m'TERM=dumb'[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+ [34;42mblack-codher-html-practice-1[0m
+ [34;42mfolder1[0m
+ [34;42mfolder2[0m
+ [34;42mgithub-fundamentals-homework-iriahbee[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32moutput.txt[0m
+ [01;32mscript.sh[0m
+ [01;32mtypescript[0m
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ touch file1.txt
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ touchfile2[K[K[K[K[K file2.ta[Kxt
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ touchfi[K[K file3.txt
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ lt-[K[Ks-t-r
+ls-t-r: command not found
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ ls
+[0m[34;42m'3D Objects'[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+ [34;42mAssignment-Unit2-Portfolio[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+[34;42m'Creative Cloud Files'[0m
+[34;42m'Creative Cloud Files bellabells2029@gmail.com bbe09d4c40757bfedb8efb42bd317a95319dcc93450cb2289d29d08e2e7ff5dc'[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+[34;42m'Google Drive'[0m
+ [34;42mIntelGraphicsProfiles[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms[0m
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [01;36mPrintHood[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+[01;32m'TERM=dumb'[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+ [34;42mblack-codher-html-practice-1[0m
+ [01;32mfile1.txt[0m
+ [01;32mfile2.txt[0m
+ [01;32mfile3.txt[0m
+ [34;42mfolder1[0m
+ [34;42mfolder2[0m
+ [34;42mgithub-fundamentals-homework-iriahbee[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32moutput.txt[0m
+ [01;32mscript.sh[0m
+ [01;32mtypescript[0m
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ mv file[K[K[Kile1.txt foler[K[Kf[Kder1
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ mv file [K2.txt folder2
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ cd folder1
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user/folder1[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user/folder1[00m$ ls
+[0m[01;32mfile1.txt[0m
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user/folder1[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user/folder1[00m$ pwd
+/mnt/c/Users/user/folder1
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user/folder1[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user/folder1[00m$ cd
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ pwd
+/home/iriahbee
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ rm file3.x[Ktxt
+rm: cannot remove 'file3.txt': No such file or directory
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ cd user
+bash: cd: user: No such file or directory
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ pwd
+/home/iriahbee
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ cd foler[K[Kder1
+bash: cd: folder1: No such file or directory
+]0;iriahbee@DESKTOP-K7LNLN0: ~[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m~[00m$ cd /mnt/c/Users/user/
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ m[Krm file3.txt
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ ls
+[0m[34;42m'3D Objects'[0m
+ [34;42mAppData[0m
+[01;36m'Application Data'[0m
+ [34;42mAssignment-Unit2-Portfolio[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+[34;42m'Creative Cloud Files'[0m
+[34;42m'Creative Cloud Files bellabells2029@gmail.com bbe09d4c40757bfedb8efb42bd317a95319dcc93450cb2289d29d08e2e7ff5dc'[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+[34;42m'Google Drive'[0m
+ [34;42mIntelGraphicsProfiles[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms[0m
+ [01;32mNTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms[0m
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [01;36mPrintHood[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+[01;32m'TERM=dumb'[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+ [34;42mblack-codher-html-practice-1[0m
+ [34;42mfolder1[0m
+ [34;42mfolder2[0m
+ [34;42mgithub-fundamentals-homework-iriahbee[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+ [01;32moutput.txt[0m
+ [01;32mscript.sh[0m
+ [01;32mtypescript[0m
+]0;iriahbee@DESKTOP-K7LNLN0: /mnt/c/Users/user[01;32miriahbee@DESKTOP-K7LNLN0[00m:[01;34m/mnt/c/Users/user[00m$ exit
+exit
+
+Script done on 2021-11-18 22:56:11+00:00 [COMMAND_EXIT_CODE="0"]
